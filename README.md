@@ -1,0 +1,2 @@
+# hostel.html
+hostel registration
